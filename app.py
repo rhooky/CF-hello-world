@@ -16,7 +16,7 @@ def mainmenu():
     return """
     <html>
     <body>
-    <center><h1>Hello Worlds!</h1><br/>
+    <center><h1>BIG BOODIE BEACHES</h1><br/>
     </body>
     </html>"""
 
